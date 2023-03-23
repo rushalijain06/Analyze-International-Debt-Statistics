@@ -18,4 +18,4 @@ In this notebook, we are going to analyze international debt data collected by T
 
 ![image](https://user-images.githubusercontent.com/52796809/227183472-0170094b-949d-419d-be53-e197a3d6bc57.png)
 
-### View the SQL queries [here]
+### View the SQL queries [here](https://github.com/rushalijain06/Analyze-International-Debt-Statistics/blob/main/notebook.ipynb)
